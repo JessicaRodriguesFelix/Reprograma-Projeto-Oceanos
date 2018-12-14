@@ -66,7 +66,7 @@ footer address:last-child {
 }
 
 @media(min-width: 768px) {
-	#paineis-sobre {
+	#paineis-sobre, #mar-extincao {
 		margin-top: 0;	
 	}
 }
@@ -102,10 +102,9 @@ footer address:last-child {
 }
 
 .jumbotron-img {
-    width: 30%;
+    width: 30;
     right: 30%;
 }
-
 
 
  
